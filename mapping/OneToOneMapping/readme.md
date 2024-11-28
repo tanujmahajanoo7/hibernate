@@ -1,4 +1,7 @@
 ```
+CREATE SCHEMA `kodnestdb` ;
+```
+```
 CREATE TABLE `kodnestdb`.`address` (
   `addr_id` INT NOT NULL AUTO_INCREMENT,
   `city` VARCHAR(45) NULL,
