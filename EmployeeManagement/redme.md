@@ -1,4 +1,19 @@
-databse name : emshibernate
-table name : employee
-columns : id, name, salary, phoneno, email, type
-id is primary key and set auto increment true
+# Employee Management - Database Schema
+
+## Database Information
+- **Database Name**: `emshibernate`
+- **Table Name**: `employee`
+
+## Table Structure
+
+### Columns
+- `id` - Primary Key (Auto Increment)
+- `name`
+- `salary`
+- `phoneno`
+- `email`
+- `type`
+
+### Primary Key
+- Column: `id`
+- Type: Auto Increment
